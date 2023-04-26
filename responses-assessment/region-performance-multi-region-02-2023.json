@@ -1,0 +1,185 @@
+[
+  {
+    "eplmrp_year": 2023,
+    "eplmrp_month": 2,
+    "eplmrp_region": "TA001",
+    "eplmrp_active_man_month_yearly": {
+      "eplmrp_ytd_last_year": "109",
+      "eplmrp_ytd_this_year": "130"
+    },
+    "eplmrp_eape": {
+      "eplmrp_ytd_last_year": "5719980.44",
+      "eplmrp_ytd_this_year": "8609279.07"
+    },
+    "eplmrp_fyc": {
+      "eplmrp_ytd_last_year": "1718181.13",
+      "eplmrp_ytd_this_year": "2583962.72"
+    },
+    "eplmrp_nb_case": {
+      "eplmrp_ytd_last_year": "331",
+      "eplmrp_ytd_this_year": "294"
+    },
+    "eplmrp_num_agent": {
+      "eplmrp_ytd_last_year": "173",
+      "eplmrp_ytd_this_year": "183"
+    },
+    "eplmrp_num_agent_yearly": {
+      "eplmrp_ytd_last_year": "349",
+      "eplmrp_ytd_this_year": "367"
+    },
+    "eplmrp_num_elite": {
+      "eplmrp_ytd_last_year": "0",
+      "eplmrp_ytd_this_year": "2"
+    },
+    "eplmrp_num_manager": {
+      "eplmrp_ytd_last_year": "23",
+      "eplmrp_ytd_this_year": "22"
+    },
+    "eplmrp_num_mdrt": {
+      "eplmrp_ytd_last_year": "0",
+      "eplmrp_ytd_this_year": "1"
+    },
+    "eplmrp_num_new": {
+      "eplmrp_ytd_last_year": "1",
+      "eplmrp_ytd_this_year": "2"
+    },
+    "eplmrp_num_va": {
+      "eplmrp_ytd_last_year": "3",
+      "eplmrp_ytd_this_year": "3"
+    },
+    "eplmrp_num_vm": {
+      "eplmrp_ytd_last_year": "0",
+      "eplmrp_ytd_this_year": "0"
+    },
+    "eplmrp_persistency": {
+      "eplmrp_ytd_last_year": "97",
+      "eplmrp_ytd_this_year": "96"
+    },
+    "eplmrp_sc": {
+      "eplmrp_ytd_last_year": "2115316.66",
+      "eplmrp_ytd_this_year": "2923581.77"
+    }
+  },
+  {
+    "eplmrp_year": 2023,
+    "eplmrp_month": 2,
+    "eplmrp_region": "TA003",
+    "eplmrp_active_man_month_yearly": {
+      "eplmrp_ytd_last_year": "21",
+      "eplmrp_ytd_this_year": "26"
+    },
+    "eplmrp_eape": {
+      "eplmrp_ytd_last_year": "758419.63",
+      "eplmrp_ytd_this_year": "873431.01"
+    },
+    "eplmrp_fyc": {
+      "eplmrp_ytd_last_year": "213525.9",
+      "eplmrp_ytd_this_year": "248798.76"
+    },
+    "eplmrp_nb_case": {
+      "eplmrp_ytd_last_year": "59",
+      "eplmrp_ytd_this_year": "60"
+    },
+    "eplmrp_num_agent": {
+      "eplmrp_ytd_last_year": "38",
+      "eplmrp_ytd_this_year": "38"
+    },
+    "eplmrp_num_agent_yearly": {
+      "eplmrp_ytd_last_year": "78",
+      "eplmrp_ytd_this_year": "77"
+    },
+    "eplmrp_num_elite": {
+      "eplmrp_ytd_last_year": "0",
+      "eplmrp_ytd_this_year": "0"
+    },
+    "eplmrp_num_manager": {
+      "eplmrp_ytd_last_year": "4",
+      "eplmrp_ytd_this_year": "4"
+    },
+    "eplmrp_num_mdrt": {
+      "eplmrp_ytd_last_year": "0",
+      "eplmrp_ytd_this_year": "0"
+    },
+    "eplmrp_num_new": {
+      "eplmrp_ytd_last_year": "0",
+      "eplmrp_ytd_this_year": "0"
+    },
+    "eplmrp_num_va": {
+      "eplmrp_ytd_last_year": "1",
+      "eplmrp_ytd_this_year": "1"
+    },
+    "eplmrp_num_vm": {
+      "eplmrp_ytd_last_year": "0",
+      "eplmrp_ytd_this_year": "0"
+    },
+    "eplmrp_persistency": {
+      "eplmrp_ytd_last_year": "96",
+      "eplmrp_ytd_this_year": "95"
+    },
+    "eplmrp_sc": {
+      "eplmrp_ytd_last_year": "311498.77",
+      "eplmrp_ytd_this_year": "295241.61"
+    }
+  },
+  {
+    "eplmrp_year": 2023,
+    "eplmrp_month": 2,
+    "eplmrp_region": "TA008",
+    "eplmrp_active_man_month_yearly": {
+      "eplmrp_ytd_last_year": "47",
+      "eplmrp_ytd_this_year": "51"
+    },
+    "eplmrp_eape": {
+      "eplmrp_ytd_last_year": "1627316.73",
+      "eplmrp_ytd_this_year": "1989534.18"
+    },
+    "eplmrp_fyc": {
+      "eplmrp_ytd_last_year": "526756.04",
+      "eplmrp_ytd_this_year": "570227.55"
+    },
+    "eplmrp_nb_case": {
+      "eplmrp_ytd_last_year": "160",
+      "eplmrp_ytd_this_year": "145"
+    },
+    "eplmrp_num_agent": {
+      "eplmrp_ytd_last_year": "70",
+      "eplmrp_ytd_this_year": "72"
+    },
+    "eplmrp_num_agent_yearly": {
+      "eplmrp_ytd_last_year": "140",
+      "eplmrp_ytd_this_year": "144"
+    },
+    "eplmrp_num_elite": {
+      "eplmrp_ytd_last_year": "0",
+      "eplmrp_ytd_this_year": "0"
+    },
+    "eplmrp_num_manager": {
+      "eplmrp_ytd_last_year": "9",
+      "eplmrp_ytd_this_year": "9"
+    },
+    "eplmrp_num_mdrt": {
+      "eplmrp_ytd_last_year": "0",
+      "eplmrp_ytd_this_year": "0"
+    },
+    "eplmrp_num_new": {
+      "eplmrp_ytd_last_year": "0",
+      "eplmrp_ytd_this_year": "0"
+    },
+    "eplmrp_num_va": {
+      "eplmrp_ytd_last_year": "0",
+      "eplmrp_ytd_this_year": "1"
+    },
+    "eplmrp_num_vm": {
+      "eplmrp_ytd_last_year": "0",
+      "eplmrp_ytd_this_year": "0"
+    },
+    "eplmrp_persistency": {
+      "eplmrp_ytd_last_year": "95",
+      "eplmrp_ytd_this_year": "96"
+    },
+    "eplmrp_sc": {
+      "eplmrp_ytd_last_year": "612236.24",
+      "eplmrp_ytd_this_year": "667598.57"
+    }
+  }
+]

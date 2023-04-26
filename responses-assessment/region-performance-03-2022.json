@@ -1,0 +1,63 @@
+[
+  {
+    "eplmrp_year": 2022,
+    "eplmrp_month": 3,
+    "eplmrp_region": "TA001",
+    "eplmrp_active_man_month_yearly": {
+      "eplmrp_ytd_last_year": "274",
+      "eplmrp_ytd_this_year": "170"
+    },
+    "eplmrp_eape": {
+      "eplmrp_ytd_last_year": "18874102.49",
+      "eplmrp_ytd_this_year": "8571793.87"
+    },
+    "eplmrp_fyc": {
+      "eplmrp_ytd_last_year": "4787166.27",
+      "eplmrp_ytd_this_year": "2511388.42"
+    },
+    "eplmrp_nb_case": {
+      "eplmrp_ytd_last_year": "1348",
+      "eplmrp_ytd_this_year": "456"
+    },
+    "eplmrp_num_agent": {
+      "eplmrp_ytd_last_year": "170",
+      "eplmrp_ytd_this_year": "172"
+    },
+    "eplmrp_num_agent_yearly": {
+      "eplmrp_ytd_last_year": "511",
+      "eplmrp_ytd_this_year": "521"
+    },
+    "eplmrp_num_elite": {
+      "eplmrp_ytd_last_year": "0",
+      "eplmrp_ytd_this_year": "1"
+    },
+    "eplmrp_num_manager": {
+      "eplmrp_ytd_last_year": "17",
+      "eplmrp_ytd_this_year": "22"
+    },
+    "eplmrp_num_mdrt": {
+      "eplmrp_ytd_last_year": "0",
+      "eplmrp_ytd_this_year": "0"
+    },
+    "eplmrp_num_new": {
+      "eplmrp_ytd_last_year": "2",
+      "eplmrp_ytd_this_year": "1"
+    },
+    "eplmrp_num_va": {
+      "eplmrp_ytd_last_year": "24",
+      "eplmrp_ytd_this_year": "10"
+    },
+    "eplmrp_num_vm": {
+      "eplmrp_ytd_last_year": "2",
+      "eplmrp_ytd_this_year": "0"
+    },
+    "eplmrp_persistency": {
+      "eplmrp_ytd_last_year": "92",
+      "eplmrp_ytd_this_year": "97"
+    },
+    "eplmrp_sc": {
+      "eplmrp_ytd_last_year": "6088492.62",
+      "eplmrp_ytd_this_year": "3189746.25"
+    }
+  }
+]
